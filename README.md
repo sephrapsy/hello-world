@@ -1,2 +1,3 @@
 # hello-world
-My first repository.
+My first GitHub repository.
+I know some Python and some R.
